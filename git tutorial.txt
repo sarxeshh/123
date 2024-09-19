@@ -1,0 +1,8 @@
+cd file name
+git init
+touch file name. extension
+git status
+git commit -m "name"
+git add (to change untracked file to tracked file)
+git log
+git add. (for larger files to change tracked files)
